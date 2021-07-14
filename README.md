@@ -6,7 +6,7 @@
 
 
 * SPI 통신
-* 가변 저항기 (Slider Pot) 
+* 가변 저항기 (Slide Pot) 
 * 로터리 엔코더 (Rotary Encoder)
 * 인터럽트를 통한 핸들 값 보정
 * PWM을 통한 DC모터 && 서보모터 제어
